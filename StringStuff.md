@@ -68,6 +68,12 @@ print("tight " * 3)
 ```
 tight tight tight
 ```
+```python
+print("rock "*4 + "scissors")
+```
+```
+rock rock rock rock scissors
+```
 
 7. Print confusing characters for Python by using backslash `\` before them.
 ```python
