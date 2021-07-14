@@ -1,4 +1,4 @@
-```
+```python
 #We want to tell the user what year they turn 100!
 
 print("How old are you?")
