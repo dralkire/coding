@@ -1,3 +1,4 @@
+```python
 #We are taking two numbers from the user
 # and adding them together
 
@@ -7,3 +8,4 @@ number2 = int(input())
 
 answer = number1+number2
 print(answer)
+```
